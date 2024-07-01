@@ -1,5 +1,5 @@
 {
-  // editor
+  // editor main 
   "editor.fontSize": 18,
   "editor.fontFamily": "Fira Code, Operator Mono",
   "editor.fontLigatures": true,
