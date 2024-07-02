@@ -14,5 +14,5 @@ Extensions
 12. Php
 13. PHP profiler
 14. Github Codespaces
-15. Live preview
+15. Live preview | or | [Deprecated] Browser Preview
 16. Community Material Theme - Mattia Astorino
