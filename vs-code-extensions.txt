@@ -9,6 +9,10 @@ Extensions
 7. ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
 8. Theme - Learn With Sumit - Peace of the eye
 9. Auto Rename Tag - Jun Han
-10. Andromeda - Eliver Lara
-11. Emoji Snippets - Devzstudio
-12. Community Material Theme - Mattia Astorino
+10. Composer
+11. IntelliPHP
+12. Php
+13. PHP profiler
+14. Github Codespaces
+15. Live preview
+16. Community Material Theme - Mattia Astorino
