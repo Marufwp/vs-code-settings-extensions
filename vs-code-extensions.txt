@@ -3,7 +3,7 @@ Extensions
 1. Live Server - ritwik dey
 2. ES Lint - Dirk Baeumer
 3. Prettier - Code formatter - Esben Petersen
-4. vscode-icons - VSCode Icons Team
+4. File Icon Mac - Wayou Liu Team
 5. Path Autocomplete - Mihai Vilcu
 6. Turbo Console Log - ChakrounAnas
 7. ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
